@@ -1,0 +1,15 @@
+/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Entities/bin/Debug/net5.0/ProgrammersBlog.Entities.deps.json
+/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Entities/bin/Debug/net5.0/ProgrammersBlog.Entities.dll
+/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Entities/bin/Debug/net5.0/ref/ProgrammersBlog.Entities.dll
+/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Entities/bin/Debug/net5.0/ProgrammersBlog.Entities.pdb
+/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Entities/bin/Debug/net5.0/ProgrammersBlog.Shared.dll
+/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Entities/bin/Debug/net5.0/ProgrammersBlog.Shared.pdb
+/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Entities/obj/Debug/net5.0/ProgrammersBlog.Entities.csprojAssemblyReference.cache
+/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Entities/obj/Debug/net5.0/ProgrammersBlog.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Entities/obj/Debug/net5.0/ProgrammersBlog.Entities.AssemblyInfoInputs.cache
+/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Entities/obj/Debug/net5.0/ProgrammersBlog.Entities.AssemblyInfo.cs
+/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Entities/obj/Debug/net5.0/ProgrammersBlog.Entities.csproj.CoreCompileInputs.cache
+/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Entities/obj/Debug/net5.0/ProgrammersBlog.Entities.csproj.CopyComplete
+/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Entities/obj/Debug/net5.0/ProgrammersBlog.Entities.dll
+/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Entities/obj/Debug/net5.0/ref/ProgrammersBlog.Entities.dll
+/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Entities/obj/Debug/net5.0/ProgrammersBlog.Entities.pdb
