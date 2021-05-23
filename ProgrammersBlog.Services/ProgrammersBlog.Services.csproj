@@ -1,5 +1,15 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
+  <ItemGroup>
+    <ProjectReference Include="..\ProgrammersBlog.Data\ProgrammersBlog.Data.csproj" />
+    <ProjectReference Include="..\ProgrammersBlog.Shared\ProgrammersBlog.Shared.csproj" />
+    <ProjectReference Include="..\ProgrammersBlog.Entities\ProgrammersBlog.Entities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
