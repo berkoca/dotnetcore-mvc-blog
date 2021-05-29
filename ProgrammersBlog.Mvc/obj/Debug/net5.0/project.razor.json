@@ -15617,6 +15617,67 @@
     "CSharpLanguageVersion": 900
   },
   "RootNamespace": "ProgrammersBlog.Mvc",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Mvc/Areas/Admin/Views/Home/Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Mvc/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Mvc/Areas/Admin/Views/_ViewStart.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Mvc/Areas/Admin/Views/_ViewImports.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Mvc/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Mvc/Areas/Admin/Views/Shared/_LayoutCssPartial.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Shared\\_LayoutCssPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Mvc/Areas/Admin/Views/Category/Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Category\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Mvc/Areas/Admin/Views/Shared/_LayoutJsPartial.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Shared\\_LayoutJsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Mvc/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Mvc/Areas/Admin/Views/Shared/_LayoutSideBarNavPartial.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Shared\\_LayoutSideBarNavPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Mvc/Areas/Admin/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Mvc/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }

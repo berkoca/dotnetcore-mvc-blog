@@ -5804,11 +5804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Data/ProgrammersBlog.Data.csproj",
+      "projectUniqueName": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Data/ProgrammersBlog.Data.csproj",
       "projectName": "ProgrammersBlog.Data",
-      "projectPath": "/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Data/ProgrammersBlog.Data.csproj",
+      "projectPath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Data/ProgrammersBlog.Data.csproj",
       "packagesPath": "/Users/berk/.nuget/packages/",
-      "outputPath": "/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Data/obj/",
+      "outputPath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/berk/.nuget/NuGet/NuGet.Config"
@@ -5823,11 +5823,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Entities/ProgrammersBlog.Entities.csproj": {
-              "projectPath": "/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Entities/ProgrammersBlog.Entities.csproj"
+            "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Entities/ProgrammersBlog.Entities.csproj": {
+              "projectPath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Entities/ProgrammersBlog.Entities.csproj"
             },
-            "/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Shared/ProgrammersBlog.Shared.csproj": {
-              "projectPath": "/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Shared/ProgrammersBlog.Shared.csproj"
+            "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Shared/ProgrammersBlog.Shared.csproj": {
+              "projectPath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Shared/ProgrammersBlog.Shared.csproj"
             }
           }
         }

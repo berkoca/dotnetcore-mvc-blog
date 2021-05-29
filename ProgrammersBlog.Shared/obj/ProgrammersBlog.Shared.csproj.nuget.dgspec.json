@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Shared/ProgrammersBlog.Shared.csproj": {}
+    "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Shared/ProgrammersBlog.Shared.csproj": {}
   },
   "projects": {
-    "/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Shared/ProgrammersBlog.Shared.csproj": {
+    "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Shared/ProgrammersBlog.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Shared/ProgrammersBlog.Shared.csproj",
+        "projectUniqueName": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Shared/ProgrammersBlog.Shared.csproj",
         "projectName": "ProgrammersBlog.Shared",
-        "projectPath": "/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Shared/ProgrammersBlog.Shared.csproj",
+        "projectPath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Shared/ProgrammersBlog.Shared.csproj",
         "packagesPath": "/Users/berk/.nuget/packages/",
-        "outputPath": "/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Shared/obj/",
+        "outputPath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/berk/.nuget/NuGet/NuGet.Config"

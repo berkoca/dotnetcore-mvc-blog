@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nm9pnsNRjA/Hcui8bADc95MzkKmuieKXEC5uDsXKeS+FwTaVkNs0Sb9mDbN3t4lV/EX6yr5ooBA5xGlGk55djA==",
+  "dgSpecHash": "f9YylD5uVuN+HiAwZl7EXobyqOCh4Mwnl9xyAkrUdVnxGato/rrt3adYP9I6aFa3XyrhJ5ZMwBnu+xtdr7c0aQ==",
   "success": true,
-  "projectFilePath": "/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Entities/ProgrammersBlog.Entities.csproj",
+  "projectFilePath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Entities/ProgrammersBlog.Entities.csproj",
   "expectedPackageFiles": [
     "/Users/berk/.nuget/packages/microsoft.entityframeworkcore/5.0.5/microsoft.entityframeworkcore.5.0.5.nupkg.sha512",
     "/Users/berk/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.5/microsoft.entityframeworkcore.abstractions.5.0.5.nupkg.sha512",

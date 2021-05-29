@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QT+XVyH2bXhYguljqRRfneU6rhxrNYNG2E2DwYYrK1TEPhDeeQTihmAOLOVWDAEieLa7dazc5WASH4DIUIvAZw==",
+  "dgSpecHash": "VJhGBNf8tdmwDedoGe+RP+l+xgOj6vs4+2SJvP6G30hHeJWppZvYhH2cmBFN2UPCVnU58fw9raYcRMikPiGCoA==",
   "success": true,
-  "projectFilePath": "/Users/berk/Desktop/Projects/dotnetcore/ProgrammersBlog/ProgrammersBlog.Data/ProgrammersBlog.Data.csproj",
+  "projectFilePath": "/Users/berk/Desktop/Projects/dotnetcore/dotnetcore-mvc-blog/ProgrammersBlog.Data/ProgrammersBlog.Data.csproj",
   "expectedPackageFiles": [
     "/Users/berk/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/berk/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
